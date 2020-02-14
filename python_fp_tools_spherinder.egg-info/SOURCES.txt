@@ -1,0 +1,6 @@
+README.md
+setup.py
+python_fp_tools_spherinder.egg-info/PKG-INFO
+python_fp_tools_spherinder.egg-info/SOURCES.txt
+python_fp_tools_spherinder.egg-info/dependency_links.txt
+python_fp_tools_spherinder.egg-info/top_level.txt

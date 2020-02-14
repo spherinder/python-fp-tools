@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: python-fp-tools-spherinder
+Version: 0.0.1
+Summary: A package for functional programming in python.
+Home-page: https://github.com/spherinder/python-fp-tools
+Author: spherinder
+Author-email: spherinder@gmail.com
+License: UNKNOWN
+Description: # python-fp-tools
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
