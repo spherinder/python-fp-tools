@@ -1,12 +1,13 @@
-from pymonad.Functor import *
-from pymonad.Applicative import *
-from pymonad.Monad import *
-from pymonad.Reader import *
-from pymonad.Maybe import *
-from pymonad.Either import *
-from pymonad.List import *
-from pymonad.Monoid import *
-from pymonad.Writer import *
-from pymonad.State import *
-from Traversable import Traversable
-
+from typeclasses import (
+    Monad,
+    Monoid,
+    Functor,
+    Applicative,
+    Foldable,
+    Traversable,
+    Semigroup,
+    Container
+)
+from Maybe import (Maybe)
+from Result import (Result)
+from List import (List, concat, map, range)
